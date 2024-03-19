@@ -6,7 +6,7 @@ Hi there! I'm a student at Queen Mary University, and I'm passionate about softw
 
 ## Contact Information
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/feed/?trk=404_page) 🔗
+- **My LinkedIn:** [linkedin](https://www.linkedin.com/feed/?trk=404_page) 🔗
 - **Email:** inabeelul@gmail.com 📧
 
 Feel free to reach out to me via LinkedIn or email if you have any questions, suggestions, or collaboration opportunities!
