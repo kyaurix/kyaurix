@@ -1,6 +1,6 @@
 # About Me
 
-👋 **Name:** Nabeel
+👨‍🎓 **Name:** Nabeel
 
 Hi there! I'm a student at Queen Mary University, and I'm passionate about software engineering. Currently, I'm diving deep into Java and enjoying every bit of it. Building innovative solutions and exploring new technologies is what keeps me going.
 
