@@ -1,10 +1,12 @@
 # About Me
 
-I am an aspiring software engineer currently focusing on learning Java. Passionate about building innovative solutions and exploring new technologies.
+👋 **Name:** Nabeel
+
+Hi there! I'm a student at Queen Mary University, and I'm passionate about software engineering. Currently, I'm diving deep into Java and enjoying every bit of it. Building innovative solutions and exploring new technologies is what keeps me going.
 
 ## Contact Information
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/feed/?trk=404_page)
-- **Email:** inabeelul@gmail.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/feed/?trk=404_page) 🔗
+- **Email:** inabeelul@gmail.com 📧
 
 Feel free to reach out to me via LinkedIn or email if you have any questions, suggestions, or collaboration opportunities!
