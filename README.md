@@ -1,4 +1,4 @@
-# About Me
+# 📍 About Me
 
 👨‍🎓 **Name:** Nabeel | 🎓 **University:** Queen Mary University of London
 
@@ -12,7 +12,7 @@ class Person {
 }
 ```
 
-## Contact Information
+## 📞 Contact Information
 
 - **My LinkedIn:** [linkedin](https://www.linkedin.com/feed/?trk=404_page) 🔗
 - **Email:** inabeelul@gmail.com 📧
