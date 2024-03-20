@@ -2,7 +2,7 @@
 
 👨‍🎓 **Name:** Nabeel | 🎓 **University:** Queen Mary University of London
 
-Hi there! I'm a student at Queen Mary University, and I'm passionate about software engineering. Currently, I'm diving deep into Java and enjoying every bit of it and the consistent desire to learn more is what keeps me going.
+Hi there! I'm a student at Queen Mary University, and I'm passionate about software engineering. Currently, I am working on developing my skills in Java. I am enjoying every bit of it as the consistent desire to learn more keeps me going.
 
 ```java
 class Person {
@@ -11,8 +11,6 @@ class Person {
     String university = "Queen Mary University of London"
 }
 ```
-
-Currently, I am working on developing my skills in Java. I am enjoying every bit of it as the consistent desire to learn more keeps me going.
 
 ## 📞 Contact Information
 
