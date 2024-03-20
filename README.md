@@ -6,9 +6,11 @@ Hi there! I'm a student at Queen Mary University, and I'm passionate about softw
 
 ```java
 public class Person {
+
     public String name = "nabeel";
     private int age = 18
     private String university = "Queen Mary University of London"
+
 }
 ```
 
