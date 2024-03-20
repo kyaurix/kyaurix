@@ -10,6 +10,7 @@ class Person {
     int age = 18
     String university = "Queen Mary University of London"
 }
+```
 
 ## Contact Information
 
