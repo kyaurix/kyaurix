@@ -12,6 +12,8 @@ class Person {
 }
 ```
 
+Currently, I am working on developing my skills in Java. I am enjoying every bit of it as the consistent desire to learn more keeps me going.
+
 ## 📞 Contact Information
 
 - **My LinkedIn:** [linkedin](https://www.linkedin.com/feed/?trk=404_page) 🔗
